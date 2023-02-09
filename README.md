@@ -1,6 +1,6 @@
 # cog2stata
 
-* Last updated: `2022-02-10`
+* Last updated: `2023-02-09`
 
 ---
 

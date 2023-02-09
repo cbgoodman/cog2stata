@@ -1,7 +1,7 @@
 * ==================================
 * TITLE: COG2STATA
 * Created: 	2022-02-10
-* Modified:	2022-02-10
+* Modified:	2023-02-09
 * ==================================
 
 * Description: This .do file imports the flat Census of Governments data files into Stata
@@ -12,7 +12,7 @@ clear all
 * GLOBALS
 * The $home directory will need to be changed
 global home "~/Dropbox/Data/Census of Governments/cog2stata/"
-global raw "${home}rawdata/"
+global raw "${home}resources/"
 global exports "${home}exports/"
 
 
